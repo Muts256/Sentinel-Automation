@@ -169,7 +169,7 @@ Under 'Incident setting' and 'Automated response', nothing needs to be changed. 
 
 On the Sentinel main page, click on Automation, then create new Automation rule
 
-![image alt](https://github.com/Muts256/SNC-Public/blob/08f729e67089f862f952eb191b522cec05abe3bc/Images/Sentinel-Automation/Sr4.png)
+![image alt](https://github.com/Muts256/SNC-Public/blob/39441ff01a4ec03995246e809b0cc7b3f0b27a2e/Images/Sentinel-Automation/Sr8.png)
 
 Under Trigger, select what the trigger should be in  this case: When the incident is created
 
@@ -181,7 +181,7 @@ Under Action, add a series of actions that will be executed when the rule is tri
 - Change status --> Active
 - Add task --> Give the Title of Task, give a description of how the incident should be handled
   
-![image alt](https://github.com/Muts256/SNC-Public/blob/08f729e67089f862f952eb191b522cec05abe3bc/Images/Sentinel-Automation/Sr5.png)
+![image alt](https://github.com/Muts256/SNC-Public/blob/39441ff01a4ec03995246e809b0cc7b3f0b27a2e/Images/Sentinel-Automation/Sr9.png)
 
 Save the automation rule.
 
