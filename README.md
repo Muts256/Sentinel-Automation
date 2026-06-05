@@ -1,6 +1,6 @@
 ### Sentinel-Automation Near Real Time Rule
 
-This Sentinel near–real-time automation rule is designed to detect brute-force authentication activity followed by a successful login within a defined time window. The rule identifies multiple failed authentication attempts against the same account and correlates them with a subsequent successful sign-in, a pattern commonly associated with credential guessing, password spraying, or compromised credentials.
+This Sentinel near-real-time automation rule is designed to detect brute-force authentication activity followed by a successful login within a defined time window. The rule identifies multiple failed authentication attempts against the same account and correlates them with a subsequent successful sign-in, a pattern commonly associated with credential guessing, password spraying, or compromised credentials.
 
 By leveraging endpoint and identity telemetry, this detection enables rapid identification of high risk authentication events, allowing security teams to respond quickly with automated actions such as  raising an alert, changing incident severity, and assigning the incident to an analyst. This approach helps reduce an attacker's time spent on the system and strengthens an organisation’s ability to detect and respond to account compromise attempts in near real time.
 
